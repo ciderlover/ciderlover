@@ -20,11 +20,19 @@ Currently optimizing workflows and building quality-of-life automation:
 
 ### 🛠️ [SHORT_CIRCUIT] // TECH_ARSENAL
 
-**> CORE_LANGUAGES:** `JavaScript` `Node.js` `Luau` `C#` `Python`
+**> CORE_LANGUAGES:** 
 
-**> ENVIRONMENT:** `Sublime Text` | `Vercel` | `Android Sideloading`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=lua&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**> SPECIALTIES:** Game modding, logic automation, IL2CPP patching, and functional script execution.
+**> ENVIRONMENT:** 
+
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
