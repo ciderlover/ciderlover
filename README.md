@@ -10,7 +10,6 @@
 
 Currently optimizing workflows and building quality-of-life automation:
 
-- 🟩 **Project Blazinhaxx:** Architecting a multi-tier script hub dashboard and UI. deployed via Vercel.
 - 🟩 **Access Control:** Building server-side Discord ID & HWID authentication protocols utilizing Node.js and Upstash Redis.
 - 🟩 **Audio Telemetry:** Developing a remote, bidirectional YouTube Music controller and visualizer (v2.7).
 
