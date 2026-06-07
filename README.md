@@ -48,6 +48,19 @@ Currently optimizing workflows and building quality-of-life automation:
 
 ---
 
+### 🚀 [PROJECT_GATEWAY] // BLAZINHAXX_DASHBOARD
+
+> **LIVE_INTERFACE:** Access the centralized script hub and control dashboard.
+> **BUILD_STATUS:** `DEPLOYED` | **NETWORK:** `VERCEL_EDGE`
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/ciderlover/yt-music-dashboard/main/assets/dashboard-preview.png" alt="Project preview" width="600" />
+</p>
+
+*Click the visual interface above to initialize the remote dashboard.*
+
+---
+
 <div align="center">
   <code>>> END_OF_FILE // UPLINK_STABLE</code>
 </div>
