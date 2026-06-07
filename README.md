@@ -32,7 +32,7 @@ Currently optimizing workflows and building quality-of-life automation:
 
 <p align="center">
   <a href="https://music.youtube.com/">
-    <img src="https://yt-music-dashboard.vercel.app/api/now-playing" alt="Now Playing Badge" />
+    <img src="https://yt-music-dashboard.vercel.app/api/now-playing?v=2" alt="Now Playing Badge" />
   </a>
 </p>
 
