@@ -31,8 +31,8 @@ Currently optimizing workflows and building quality-of-life automation:
 > **CURRENT_AUDIO_STREAM:**
 
 <p align="center">
-  <a href="https://music.youtube.com/">
-    <img src="https://yt-music-dashboard.vercel.app/api/now-playing?v=2" alt="Now Playing Badge" />
+  <a href="https://yt-music-dashboard.vercel.app/api/redirect">
+    <img src="https://yt-music-dashboard.vercel.app/api/now-playing?v=4" alt="Live Audio Telemetry" />
   </a>
 </p>
 
