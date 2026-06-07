@@ -33,7 +33,7 @@ Currently optimizing workflows and building quality-of-life automation:
 
 <p align="center">
   <a href="https://music.youtube.com/">
-    <img src="https://img.shields.io/badge/Now%20Playing-Awaiting%20Telemetry...-00ff00?style=for-the-badge&logo=youtubemusic&logoColor=black&labelColor=black" alt="Now Playing Badge" />
+    <img src="https://yt-music-dashboard.vercel.app/api/now-playing" alt="Now Playing Badge" />
   </a>
 </p>
 
