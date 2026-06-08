@@ -15,6 +15,15 @@ Currently optimizing workflows and building quality-of-life automation:
 
 ---
 
+### 📊 [GRID_METRICS] // TELEMETRY_SCAN
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=000000&title_color=00FF66&text_color=00D2FF&icon_color=00FF66&hide_border=true&count_private=true" alt="Mainframe Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=000000&title_color=00FF66&text_color=00D2FF&hide_border=true&langs_count=5" alt="Language Matrix" height="160" />
+</p>
+
+---
+
 ### 🛠️ [SHORT_CIRCUIT] // TECH_ARSENAL
 
 **> CORE_LANGUAGES:** 
