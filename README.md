@@ -31,14 +31,6 @@ Currently optimizing workflows and building quality-of-life automation:
 
 ---
 
-### 📊 [GRID_METRICS] // TELEMETRY_SCAN
-
-<p align="center">
-  <img src="https://git-stats-olive-nu.vercel.app/api/stats?username=ciderlover" alt="Mainframe Stats" height="160" />
-</p>
-
----
-
 ### 🎵 [PING] // AUDIO_TRACKING
 
 > **DAEMON_ACTIVE:** `YTM_Controller_v2.7`
@@ -47,6 +39,22 @@ Currently optimizing workflows and building quality-of-life automation:
   <a href="https://yt-music-dashboard.vercel.app/api/redirect">
     <img src="https://yt-music-dashboard.vercel.app/api/now-playing?v=6" alt="Live Audio Telemetry" />
   </a>
+</p>
+
+---
+
+### 📊 [GRID_METRICS] // TELEMETRY_SCAN
+
+<p align="center">
+  <img src="https://git-stats-olive-nu.vercel.app/api/stats?username=ciderlover" alt="Mainframe Stats" height="160" />
+</p>
+
+---
+
+### 👾 [GRID_RUNNER] // CONTRIBUTION_FLOW
+
+<p align="center">
+  <img src="https://git-stats-olive-nu.vercel.app/api/grid?username=ciderlover" alt="Grid Runner Telemetry" />
 </p>
 
 ---
