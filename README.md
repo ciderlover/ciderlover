@@ -54,7 +54,7 @@ Currently optimizing workflows and building quality-of-life automation:
 ### 👾 [GRID_RUNNER] // CONTRIBUTION_FLOW
 
 <p align="center">
-  <img src="https://git-stats-olive-nu.vercel.app/api/grid?username=ciderlover" alt="Grid Runner Telemetry" />
+  <img src="https://git-stats-olive-nu.vercel.app/api/grid?username=ciderlover&v=2" alt="Grid Runner Telemetry" />
 </p>
 
 ---
