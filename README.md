@@ -15,15 +15,6 @@ Currently optimizing workflows and building quality-of-life automation:
 
 ---
 
-### 📊 [GRID_METRICS] // TELEMETRY_SCAN
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=000000&title_color=00FF66&text_color=00D2FF&icon_color=00FF66&hide_border=true&count_private=true" alt="Mainframe Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=000000&title_color=00FF66&text_color=00D2FF&hide_border=true&langs_count=5" alt="Language Matrix" height="160" />
-</p>
-
----
-
 ### 🛠️ [SHORT_CIRCUIT] // TECH_ARSENAL
 
 **> CORE_LANGUAGES:** 
@@ -39,6 +30,15 @@ Currently optimizing workflows and building quality-of-life automation:
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+### 📊 [GRID_METRICS] // TELEMETRY_SCAN
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ciderlover&show_icons=true&bg_color=000000&title_color=00FF66&text_color=00D2FF&icon_color=00FF66&hide_border=true&count_private=true" alt="Mainframe Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciderlover&layout=compact&bg_color=000000&title_color=00FF66&text_color=00D2FF&hide_border=true&langs_count=5" alt="Language Matrix" height="160" />
+</p>
 
 ---
 
