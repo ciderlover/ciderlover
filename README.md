@@ -33,11 +33,10 @@ Currently optimizing workflows and building quality-of-life automation:
 
 ---
 
-### 📊 [GRID_METRICS] // TELEMETRY_SCAN
+### 👾 [GRID_RUNNER] // CONTRIBUTION_FLOW
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ciderlover&show_icons=true&bg_color=000000&title_color=00FF66&text_color=00D2FF&icon_color=00FF66&hide_border=true&count_private=true" alt="Mainframe Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciderlover&layout=compact&bg_color=000000&title_color=00FF66&text_color=00D2FF&hide_border=true&langs_count=5" alt="Language Matrix" height="160" />
+  <img src="https://raw.githubusercontent.com/ciderlover/ciderlover/output/github-contribution-grid-snake-dark.svg" alt="Grid Runner Snake" />
 </p>
 
 ---
