@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1500&color=00FF66&center=true&vCenter=true&width=600&lines=SYS_ADMIN%3A+SAM+%2F%2F+UPLINK_ESTABLISHED;BREACH+PROTOCOL%3A+SUCCESS+%7C+STATUS%3A+ONLINE;INITIALIZING+LOCAL_CORE_DAEMONS..." alt="Typing SVG" />
 
-**BREACH PROTOCOL:** `SUCCESS` | **STATUS:** `ONLINE`
 **DIRECTIVE:** Advocating for digital freedom, software customizability, and bypassing restrictions.
 </div>
 
