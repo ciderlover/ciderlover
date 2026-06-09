@@ -13,7 +13,7 @@
 ### 🖥️ [SYS_DIAGNOSTICS] // LOCAL_RIG
 
 <p align="center">
-  <img src="[https://git-stats-olive-nu.vercel.app/api/rig](https://git-stats-olive-nu.vercel.app/api/rig)" alt="System Diagnostics Card" />
+  <img src="https://git-stats-olive-nu.vercel.app/api/rig" alt="System Diagnostics Card" />
 </p>
 
 ---
