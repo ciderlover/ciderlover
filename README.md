@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1500&color=00FF66&center=true&vCenter=true&width=600&lines=SYS_ADMIN%3A+SAM+%2F%2F+UPLINK_ESTABLISHED;BREACH+PROTOCOL%3A+SUCCESS+%7C+STATUS%3A+ONLINE;INITIALIZING+LOCAL_CORE_DAEMONS..." alt="Typing SVG" />
 ![Firewall Counter](https://img.shields.io/badge/FIREWALL_LOGS-INTRUSIONS_DETECTED:_000000-00FF66?style=flat-square&logo=dependencycheck&logoColor=00FF66&labelColor=000000)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1500&color=00FF66&center=true&vCenter=true&width=600&lines=SYS_ADMIN%3A+SAM+%2F%2F+UPLINK_ESTABLISHED;BREACH+PROTOCOL%3A+SUCCESS+%7C+STATUS%3A+ONLINE;INITIALIZING+LOCAL_CORE_DAEMONS..." alt="Typing SVG" />
 
 **DIRECTIVE:** Advocating for digital freedom, software customizability, and bypassing restrictions.
 
