@@ -12,16 +12,10 @@
 
 ### 🖥️ [SYS_DIAGNOSTICS] // LOCAL_RIG
 
-```text
-               /\       BILL@MAINFRAME
-              /  \      -------------
-             /\  /\     OS: Windows 11 / Android
-            /  \/  \    KERNEL: Node.js / Vercel_Serverless
-           /   ||   \   UPTIME: 100% (No-Crash Framework)
-          /    ||    \  SHELL: Bash / Powershell
-         /_____||_____\ EDITOR: Sublime Text
-        [==============]
-```
+<p align="center">
+  <img src="[https://git-stats-olive-nu.vercel.app/api/rig](https://git-stats-olive-nu.vercel.app/api/rig)" alt="System Diagnostics Card" />
+</p>
+
 ---
 
 ### ⚡ [OVERHEAT] // CURRENT_DIRECTIVES
