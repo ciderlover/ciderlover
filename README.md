@@ -22,6 +22,7 @@
          /_____||_____\ EDITOR: Sublime Text
         [==============]
 ```
+---
 
 ### ⚡ [OVERHEAT] // CURRENT_DIRECTIVES
 
